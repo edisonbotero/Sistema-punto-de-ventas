@@ -1,0 +1,9 @@
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\bin\Debug\ViewModels.dll
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\bin\Debug\ViewModels.pdb
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\bin\Debug\Models.dll
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\bin\Debug\Models.pdb
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\obj\Debug\ViewModels.csproj.AssemblyReference.cache
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\obj\Debug\ViewModels.dll
+D:\proyectos visual estudio\Sistema punto de ventas\ViewModels\obj\Debug\ViewModels.pdb
